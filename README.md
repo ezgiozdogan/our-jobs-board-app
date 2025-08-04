@@ -73,9 +73,15 @@ Test files are located next to components in __tests__ folders or in *.spec.ts f
 
 ## 🧪 Linting & Formatting
 
-npm run lint: Check lint issues
+Check lint issues
 
-npm run format: Format code using Prettier
+```npm run lint``` 
+
+Format code using Prettier
+
+``` npm run format ```
+
+
 
 
 ## 🗂️ Project Structure
