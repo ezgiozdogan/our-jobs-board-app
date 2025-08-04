@@ -40,7 +40,7 @@
 
 ```bash
 SSH: git clone git@github.com:ezgiozdogan/our-jobs-board-app.git
-HTTPS: https://github.com/ezgiozdogan/our-job-board-app.git
+HTTPS: https://github.com/ezgiozdogan/our-jobs-board-app.git
 cd our-jobs-board-app
 npm install
 npm run dev
