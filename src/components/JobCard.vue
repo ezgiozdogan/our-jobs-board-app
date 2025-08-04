@@ -10,20 +10,24 @@
 </template>
 
 <script setup lang="ts">
-import { RouterLink } from "vue-router";
-const props = defineProps<{
-  job: {
-    id: number;
-    title: string;
-    company: string;
-    location: string;
-    category: string;
-    description: string;
-    postedAt: string;
-    detail: string;
-    job: object;
-  };
-}>();
+  import { RouterLink } from "vue-router";
+  const props = defineProps<{
+    job: {
+      id: number;
+      title: string;
+      company: string;
+      location: string;
+      category: string;
+      description: string;
+      postedAt: string;
+      detail: string;
+      job: object;
+      requirements: [];
+      employmentType: string;
+      experienceLevel: string;
+      salaryRange: string;
+    };
+  }>();
 
-const formattedDate = new Date(props.job.postedAt).toLocaleDateString();
+  const formattedDate = new Date(props.job.postedAt).toLocaleDateString();
 </script>

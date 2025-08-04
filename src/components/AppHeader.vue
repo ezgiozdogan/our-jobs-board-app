@@ -4,7 +4,7 @@
   >
     <router-link to="/" class="text-2xl font-bold hover:underline">
       <h1 class="text-2xl font-bold text-indigo-600 dark:text-indigo-400">
-        Careerly
+        OurJobsBoard
       </h1>
     </router-link>
     <button

@@ -108,4 +108,8 @@ type Job = {
   description: string;
   detail?: string;
   postedAt: string;
+  requirements: [];
+  employmentType: string;
+  experienceLevel: string;
+  salaryRange: string;
 };

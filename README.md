@@ -1,6 +1,6 @@
-# 💼 Careerly – Modern Job Board Platform
+# 💼 OurJobsBoard – Modern Job Board Platform
 
-**Careerly** is a sleek, responsive, and feature-rich job board built with Vue 3, TypeScript, Tailwind CSS, and Pinia. It allows users to browse, search, filter, and sort job listings with an intuitive interface and dark mode support.
+**OurJobsBoard** is a sleek, responsive, and feature-rich job board built with Vue 3, TypeScript, Tailwind CSS, and Pinia. It allows users to browse, search, filter, and sort job listings with an intuitive interface and dark mode support.
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 📸 Preview
 
-![Careerly UI Screenshot](src/assets/careerly-ui.png)
+![OurJobsBoard UI Screenshot](src/assets/our-jobs-board-ui.png)
 
 ---
 
@@ -39,23 +39,48 @@
 ## ⚙️ Project Setup
 
 ```bash
-SSH: git clone git@github.com:ezgiozdogan/careerly-job-board-app.git
-HTTPS: https://github.com/ezgiozdogan/careerly-job-board-app.git
-cd careerly-job-board-app
+SSH: git clone git@github.com:ezgiozdogan/our-jobs-board-app.git
+HTTPS: https://github.com/ezgiozdogan/our-job-board-app.git
+cd our-jobs-board-app
 npm install
 npm run dev
 
 ```
 
+## 🧪 Testing
+This project uses Vitest and @testing-library/vue for unit testing.
+
+Run All Tests
+
+```
+npx vitest
+```
+
+Run in watch mode
+
+```
+npx vitest --watch
+```
+Make sure to install dependencies first:
+
+
+```
+npm install
+```
+Test files are located next to components in __tests__ folders or in *.spec.ts files.
+
+
 
 ## 🧪 Linting & Formatting
 
-npm run lint         # Check lint issues
-npm run format       # Format code using Prettier
+npm run lint: Check lint issues
+
+npm run format: Format code using Prettier
 
 
 ## 🗂️ Project Structure
 
+```plaintext
 src/
 ├── assets/               # Static assets
 ├── components/           # Reusable components (JobCard, Header, etc.)
@@ -65,16 +90,14 @@ src/
 ├── stores/               # Pinia stores
 ├── App.vue               # Root app shell
 ├── main.ts               # Entry point
+```
 
 
 ## 🌙 Dark Mode
 Dark mode is toggleable via the header icon. The preference is saved in localStorage and persists across sessions.
 
-## 📄 License
-This project is open source and available under the MIT License.
-
 ## 🙋‍♀️ Author
 Made with ❤️ by Ezgi – frontend developer & coffee enthusiast ☕
 
-
-
+##
+**Note:** All job listings and company names in this project are fictional and generated for demonstration purposes only.

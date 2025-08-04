@@ -9,7 +9,7 @@
         class="filter-input"
       />
 
-      <select
+      <select 
         v-model="selectedCategory"
         @change="selectCategory($event.target.value)"
         class="filter-input"
@@ -56,6 +56,13 @@
           Oldest First
         </button>
       </div>
+      <button
+        @click="resetFilters"
+        class="text-sm px-3 py-2 rounded-md border bg-red-50 text-red-700 hover:bg-red-100 transition"
+      >
+        Clear Filters
+      </button>
+
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -117,6 +124,14 @@ const {
 
 const { fetchJobs, setCategory, setSearch, setLocation, setPage, setSort } =
   store;
+
+const resetFilters = () => {
+  setCategory('All')
+  setLocation('')
+  setSearch('')
+  setSort('desc')
+  setPage(1)
+}
 
 onMounted(() => {
   fetchJobs();
