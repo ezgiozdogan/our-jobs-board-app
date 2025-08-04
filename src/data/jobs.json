@@ -1,0 +1,364 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Remote",
+    "category": "Development",
+    "description": "Skilled Vue.js developer to build modern SPAs.",
+    "postedAt": "2025-05-10",
+    "detail": "Build and optimize modern single-page applications with Vue 3 and Vite. Collaborate across teams to deliver responsive user interfaces.",
+    "requirements": [
+      "Vue 3, TypeScript, Vite",
+      "Responsive design with Tailwind CSS",
+      "REST API integration",
+      "Version control with Git"
+    ],
+    "salaryRange": "$60,000 - $85,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Designer",
+    "company": "Designify",
+    "location": "New York, NY",
+    "category": "Design",
+    "description": "Design intuitive UIs for web and mobile.",
+    "postedAt": "2025-05-15",
+    "detail": "Craft beautiful and usable interfaces using Figma. Participate in user research and iterate designs based on feedback.",
+    "requirements": [
+      "2+ years of design experience",
+      "Proficiency in Figma, Adobe XD",
+      "Wireframing and prototyping",
+      "Understanding of accessibility principles"
+    ],
+    "salaryRange": "$55,000 - $80,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 3,
+    "title": "Marketing Specialist",
+    "company": "Growthify",
+    "location": "San Francisco, CA",
+    "category": "Marketing",
+    "description": "Drive growth through SEO and paid campaigns.",
+    "postedAt": "2025-05-17",
+    "detail": "Plan and execute growth strategies including SEO, PPC, and content marketing. Track performance and optimize campaigns.",
+    "requirements": [
+      "SEO, Google Ads, Facebook Ads",
+      "Google Analytics, SEMrush",
+      "Content strategy experience"
+    ],
+    "salaryRange": "$50,000 - $70,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 4,
+    "title": "Backend Developer",
+    "company": "DataCloud",
+    "location": "Berlin, Germany",
+    "category": "Development",
+    "description": "Build scalable APIs with Node.js.",
+    "postedAt": "2025-05-20",
+    "detail": "Develop scalable backend services using Node.js and MongoDB. Ensure high availability and performance.",
+    "requirements": [
+      "Node.js, Express",
+      "MongoDB or PostgreSQL",
+      "Docker, CI/CD knowledge"
+    ],
+    "salaryRange": "$70,000 - $90,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior"
+  },
+  {
+    "id": 5,
+    "title": "Product Manager",
+    "company": "InnovateX",
+    "location": "London, UK",
+    "category": "Product",
+    "description": "Lead cross-functional teams and product vision.",
+    "postedAt": "2025-05-21",
+    "detail": "Define product strategy, roadmap, and execution in collaboration with stakeholders. Align teams to deliver high-impact features.",
+    "requirements": [
+      "3+ years in product management",
+      "Agile methodologies",
+      "Stakeholder communication"
+    ],
+    "salaryRange": "$80,000 - $110,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid-Senior"
+  },
+  {
+    "id": 6,
+    "title": "DevOps Engineer",
+    "company": "CloudNet",
+    "location": "Amsterdam, NL",
+    "category": "Infrastructure",
+    "description": "Manage CI/CD and cloud infrastructure.",
+    "postedAt": "2025-05-22",
+    "detail": "Set up CI/CD pipelines, monitor cloud infrastructure, and ensure deployment reliability on AWS.",
+    "requirements": [
+      "AWS, Terraform, Kubernetes",
+      "CI/CD tools (GitHub Actions, Jenkins)",
+      "Infrastructure as Code"
+    ],
+    "salaryRange": "$75,000 - $95,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 7,
+    "title": "QA Tester",
+    "company": "BugHunt",
+    "location": "Remote",
+    "category": "Quality Assurance",
+    "description": "Test web and mobile apps for bugs.",
+    "postedAt": "2025-05-23",
+    "detail": "Write and execute test cases, report bugs, and maintain test documentation. Collaborate with development teams to ensure product quality.",
+    "requirements": [
+      "Manual and automated testing",
+      "Tools like Cypress or Selenium",
+      "Bug tracking systems (Jira)"
+    ],
+    "salaryRange": "$45,000 - $65,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Junior-Mid"
+  },
+  {
+    "id": 8,
+    "title": "Data Analyst",
+    "company": "DataInsights",
+    "location": "Toronto, CA",
+    "category": "Data",
+    "description": "Analyze business data and generate reports.",
+    "postedAt": "2025-05-24",
+    "detail": "Interpret data, build dashboards, and assist stakeholders in data-driven decision making.",
+    "requirements": [
+      "SQL, Excel, Tableau/Power BI",
+      "Basic Python for data manipulation",
+      "Strong communication skills"
+    ],
+    "salaryRange": "$55,000 - $75,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 9,
+    "title": "Technical Writer",
+    "company": "DocuTech",
+    "location": "Austin, TX",
+    "category": "Documentation",
+    "description": "Create and maintain technical documentation.",
+    "postedAt": "2025-05-25",
+    "detail": "Document APIs, software usage, and internal systems. Convert technical concepts into clear guides.",
+    "requirements": [
+      "Excellent written English",
+      "Markdown, Git",
+      "API documentation experience"
+    ],
+    "salaryRange": "$50,000 - $68,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 10,
+    "title": "HR Coordinator",
+    "company": "PeopleFirst",
+    "location": "Chicago, IL",
+    "category": "Human Resources",
+    "description": "Support recruiting and HR operations.",
+    "postedAt": "2025-05-26",
+    "detail": "Assist in recruitment, onboarding, and HR documentation. Maintain compliance and support employee experience initiatives.",
+    "requirements": [
+      "Familiarity with labor laws",
+      "Strong communication skills",
+      "Experience with HR software"
+    ],
+    "salaryRange": "$45,000 - $60,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Junior-Mid"
+  },
+  {
+    "id": 11,
+    "title": "Mobile Developer",
+    "company": "AppForge",
+    "location": "Remote",
+    "category": "Development",
+    "description": "Develop cross-platform mobile apps.",
+    "postedAt": "2025-05-27",
+    "detail": "Develop high-performance mobile apps using Flutter or React Native. Deliver smooth, scalable user experiences.",
+    "requirements": [
+      "Flutter or React Native",
+      "Published apps on App Store / Play Store",
+      "REST API integration"
+    ],
+    "salaryRange": "$65,000 - $90,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 12,
+    "title": "SEO Specialist",
+    "company": "RankBoost",
+    "location": "Los Angeles, CA",
+    "category": "Marketing",
+    "description": "Optimize websites for search engines.",
+    "postedAt": "2025-05-28",
+    "detail": "Analyze traffic, optimize site structure, and implement link-building strategies.",
+    "requirements": [
+      "Technical SEO knowledge",
+      "Tools: Ahrefs, Search Console",
+      "Keyword and competitor research"
+    ],
+    "salaryRange": "$48,000 - $70,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 13,
+    "title": "System Administrator",
+    "company": "SysOpsCo",
+    "location": "Dublin, IE",
+    "category": "Infrastructure",
+    "description": "Maintain server infrastructure and uptime.",
+    "postedAt": "2025-05-29",
+    "detail": "Manage Linux-based server environments, ensure system reliability, and respond to incidents.",
+    "requirements": [
+      "Linux system administration",
+      "Shell scripting",
+      "Monitoring and backup tools"
+    ],
+    "salaryRange": "$60,000 - $85,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior"
+  },
+  {
+    "id": 14,
+    "title": "Graphic Designer",
+    "company": "PixelPerfect",
+    "location": "Paris, FR",
+    "category": "Design",
+    "description": "Create marketing visuals and brand assets.",
+    "postedAt": "2025-05-30",
+    "detail": "Design digital and print visuals. Maintain brand consistency across channels.",
+    "requirements": [
+      "Photoshop, Illustrator, Canva",
+      "Eye for layout and color",
+      "Experience designing social media assets"
+    ],
+    "salaryRange": "$45,000 - $60,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 15,
+    "title": "Customer Success Manager",
+    "company": "HappyUsers",
+    "location": "Remote",
+    "category": "Customer Support",
+    "description": "Ensure customer satisfaction and onboarding.",
+    "postedAt": "2025-06-01",
+    "detail": "Onboard new customers, support retention, and represent the voice of the customer to internal teams.",
+    "requirements": [
+      "Experience in SaaS or B2B",
+      "Customer communication tools",
+      "Problem-solving mindset"
+    ],
+    "salaryRange": "$55,000 - $80,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 16,
+    "title": "Database Engineer",
+    "company": "DBExperts",
+    "location": "Madrid, ES",
+    "category": "Data",
+    "description": "Design and maintain database systems.",
+    "postedAt": "2025-06-02",
+    "detail": "Design scalable data models, optimize queries, and ensure database reliability.",
+    "requirements": [
+      "PostgreSQL, MySQL, Redis",
+      "Database schema design",
+      "Monitoring and optimization tools"
+    ],
+    "salaryRange": "$70,000 - $95,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior"
+  },
+  {
+    "id": 17,
+    "title": "Content Creator",
+    "company": "CreateCo",
+    "location": "Remote",
+    "category": "Marketing",
+    "description": "Write blog posts and manage content.",
+    "postedAt": "2025-06-03",
+    "detail": "Produce high-impact content for blogs, email, and social media aligned with SEO strategy.",
+    "requirements": [
+      "Strong writing skills",
+      "SEO content optimization",
+      "Experience with CMS tools"
+    ],
+    "salaryRange": "$45,000 - $65,000",
+    "employmentType": "Contract",
+    "experienceLevel": "Mid"
+  },
+  {
+    "id": 18,
+    "title": "Security Analyst",
+    "company": "SafeNet",
+    "location": "Washington, DC",
+    "category": "Security",
+    "description": "Monitor systems and prevent attacks.",
+    "postedAt": "2025-06-04",
+    "detail": "Detect and respond to security incidents. Monitor logs and maintain compliance standards.",
+    "requirements": [
+      "SIEM tools (e.g. Splunk)",
+      "Incident response experience",
+      "Knowledge of OWASP Top 10"
+    ],
+    "salaryRange": "$75,000 - $100,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid-Senior"
+  },
+  {
+    "id": 19,
+    "title": "Data Scientist",
+    "company": "AIWorks",
+    "location": "San Jose, CA",
+    "category": "Data",
+    "description": "Build predictive models and insights.",
+    "postedAt": "2025-06-05",
+    "detail": "Analyze data, build machine learning models, and deliver insights to product teams.",
+    "requirements": [
+      "Python, Scikit-learn, Pandas",
+      "Data visualization",
+      "Statistical modeling experience"
+    ],
+    "salaryRange": "$85,000 - $120,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior"
+  },
+  {
+    "id": 20,
+    "title": "Software Architect",
+    "company": "BuildTech",
+    "location": "Munich, DE",
+    "category": "Development",
+    "description": "Design system architecture and scalability.",
+    "postedAt": "2025-06-06",
+    "detail": "Lead the architecture design of enterprise-scale software. Guide development teams on best practices and scalability.",
+    "requirements": [
+      "Microservices architecture",
+      "Cloud infrastructure (AWS/GCP)",
+      "System integration experience"
+    ],
+    "salaryRange": "$100,000 - $140,000",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior"
+  }
+]
